@@ -1,0 +1,2 @@
+User-agent: *
+ Disallow: /C:/Users/Ashok/Desktop/Codein/dummy.html
